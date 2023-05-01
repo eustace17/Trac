@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_sign_in.xml",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_register.xml",
+        "source": "/home/lee/.gradle/daemon/8.0/com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.appdevelopmenttrialtwo.app-mergeDebugResources-32:/layout/activity_sign_in.xml",
+        "source": "com.example.appdevelopmenttrialtwo.app-main-35:/layout/activity_sign_in.xml"
+    }
+]
